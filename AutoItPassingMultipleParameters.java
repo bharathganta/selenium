@@ -13,7 +13,7 @@ public class passingMultipleParameters {
 	ControlSetText("File Upload","","Edit1",$CmdLine[1])
 	ControlClick("File Upload","","Button1") 
 	*/
-							 /* ---------Auto It Path------------*//*----- upload image/file path-- */
+			    /* ---------Auto It Path------------*//*----- upload image/file path-- */
 	Runtime.getRuntime().exec("E:\\mavWealth\\passingParameter.exe"+" "+"E:\\mavWealth\\2.jpg");
 	Runtime.getRuntime().exec("E:\\mavWealth\\passingParameter.exe"+" "+"E:\\mavWealth\\3.jpg");
 	
